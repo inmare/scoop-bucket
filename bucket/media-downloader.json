@@ -5,7 +5,6 @@
     "license": "GPL-2.0-or-later",
     "url": "https://github.com/mhogomchungu/media-downloader/releases/download/4.1.0/MediaDownloader-4.1.0.zip",
     "hash": "69a2d715eb48243adf576e8a0f2b94e077e3a2665e6a2cb206cc8ba52ab57ec5",
-    "extract_dir": "MediaDownloader-4.1.0",
     "persist": [
         "Downloads",
         "local"
